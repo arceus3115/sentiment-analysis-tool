@@ -8,6 +8,7 @@ Current resources
 - https://github.com/cdipaolo/sentiment
 - https://chirag-sehra.medium.com/sentiment-analysis-in-go-efa0ae62cea1
 - https://github.com/drankou/go-vader
+- https://github.com/cjhutto/vaderSentiment
 
 Either make a new sentiment analysis package or use a preexisting one. 
 
