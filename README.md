@@ -8,3 +8,8 @@ Current resources
 - https://github.com/cdipaolo/sentiment
 - https://chirag-sehra.medium.com/sentiment-analysis-in-go-efa0ae62cea1
 - https://github.com/drankou/go-vader
+
+Either make a new sentiment analysis package or use a preexisting one. 
+
+- goal is to harness the sentiment analysis to package how someone feels through meaningful journaling. (graphical plotting of good vs bad days)
+- track what youve done over the course of a month and return to the user what they should continue doing and what they should try to stop doing.
